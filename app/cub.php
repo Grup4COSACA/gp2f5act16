@@ -3,7 +3,7 @@
 <html lang="ca">
 <head>
 	<meta charset="utf-8">
-	<title>Calcular Volum i Superficie d'una Cub</title>
+	<title>Calcular Volum i Superficie d'un Cub</title>
 </head>
 	<body>
 		<p><u>RESULTAT</u></p>		

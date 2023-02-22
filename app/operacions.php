@@ -48,6 +48,22 @@
               'volum' => $volum
             );
     }
+
+    public function prisma_hexagonal($h, $c) {
+            $area_base = (3 * sqrt(3) * pow($c, 2)) / 2;
+            $volum = $area_base * $h;
+            return $volum;
+      }
+
+    public function TroncCon($h, $r1, $r2) {
+            $volum = (1/3) * pi() * $h * ($r1*2 + $r1 || $r2 + $r2**2);
+            return $volum;
+    }
+
+    public function Ortoedre($l) {
+            $volum = (1/3) * sqrt(2) * ($l ** 3);
+            return $volum;
+    }
 	}
 
 ?>

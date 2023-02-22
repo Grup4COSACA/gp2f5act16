@@ -2,7 +2,7 @@
 <html lang="ca">
 <head>
 	<meta charset="utf-8">
-	<title>Calcula volum i superficie d'un cilindre</title>
+	<title>Calcular Volum i Superficie d'un Cilindre</title>
 </head>
 	<body>
 		<p><u>RESULTAT</u></p>		
